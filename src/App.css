@@ -1,6 +1,8 @@
 .main {
   text-align: center;
   padding: 2em;
+
+  height: 60vh;
 }
 
 .main h2 {
